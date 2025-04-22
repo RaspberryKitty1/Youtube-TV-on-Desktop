@@ -1,0 +1,24 @@
+{
+	"name": "YouTube TV Mode Access",
+	"version": "1.0",
+	"description": "Access YouTube TV mode on desktop without redirection.",
+	"manifest_version": 3,
+	"icons": {
+		"48": "icon.png"
+	},
+	"host_permissions": [
+		"*://*.youtube.com/tv*"
+	],
+	"permissions": [
+		"declarativeNetRequest"
+	],
+	"declarative_net_request": {
+		"rule_resources": [
+			{
+				"id": "ruleset_1",
+				"enabled": true,
+				"path": "rules.json"
+			}
+		]
+	}
+}
