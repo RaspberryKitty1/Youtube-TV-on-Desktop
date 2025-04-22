@@ -1,6 +1,6 @@
 # 📺 YouTube TV Mode Access
 
-A lightweight browser extension that forces YouTube into **TV mode** on desktop by spoofing the User-Agent to mimic a Nintendo Switch. Enjoy the big-screen experience right from your browser—no smart TV needed.
+A lightweight browser extension that forces YouTube into [**TV mode**](https://youtube.com/tv#) on desktop by spoofing the User-Agent to mimic a Nintendo Switch. Enjoy the big-screen experience right from your browser—no smart TV needed.
 
 ---
 
